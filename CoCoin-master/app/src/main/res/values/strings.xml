@@ -1,0 +1,326 @@
+<resources>
+    <string name="app_name">CoCoin</string>
+    <string name="app_info">
+        CoCoin&#13;&#10;
+        Copyright © Nightonke
+    </string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="title_activity_account_book">AccountBook</string>
+    <string name="title_activity_tag_setting">TagSetting</string>
+
+    <string name="custom_view">Custom view</string>
+    <string name="tags_view">Tags view</string>
+    <string name="months_view">Months view</string>
+    <string name="list_view">List view</string>
+    <string name="expense_report">Expense report</string>
+    <string name="sync">Sync to server</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help &amp; feedback</string>
+
+    <string name="today_empty">New day!</string>
+    <string name="yesterday_empty">No coCoinRecords.</string>
+    <string name="this_week_empty">New week!</string>
+    <string name="last_week_empty">No coCoinRecords.</string>
+    <string name="this_month_empty">New month!</string>
+    <string name="last_month_empty">No coCoinRecords.</string>
+    <string name="this_year_empty">Happy new year!</string>
+    <string name="last_year_empty">No coCoinRecords.</string>
+
+    <string name="january_short">Jan.</string>
+    <string name="february_short">Feb.</string>
+    <string name="march_short">Mar.</string>
+    <string name="april_short">Apr.</string>
+    <string name="may_short">May</string>
+    <string name="june_short">June</string>
+    <string name="july_short">July</string>
+    <string name="august_short">Aug.</string>
+    <string name="september_short">Sept.</string>
+    <string name="october_short">Oct.</string>
+    <string name="november_short">Nov.</string>
+    <string name="december_short">Dec.</string>
+
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">Marc</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="today_date_string">today</string>
+    <string name="yesterday_date_string">yesterday</string>
+    <string name="this_week_date_string">this week</string>
+    <string name="last_week_date_string">last week</string>
+    <string name="this_month_date_string">this month</string>
+    <string name="last_month_date_string">last month</string>
+    <string name="this_year_date_string">this year</string>
+    <string name="last_year_date_string">last year</string>
+
+    <string name="at">at </string>
+    <string name="on">on </string>
+    <string name="in">in </string>
+
+    <string name="o_clock">o\'clock</string>
+
+    <string name="monday_short">MON</string>
+    <string name="tuesday_short">TUE</string>
+    <string name="wednesday_short">WED</string>
+    <string name="thursday_short">THU</string>
+    <string name="friday_short">FRI</string>
+    <string name="saturday_short">SAT</string>
+    <string name="sunday_short">SUN</string>
+
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+
+    <string name="last">last </string>
+
+    <string name="check">check</string>
+
+    <string name="today_view_today">Today</string>
+    <string name="today_view_yesterday">Yesterday</string>
+    <string name="today_view_this_week">This Week</string>
+    <string name="today_view_last_week">Last Week</string>
+    <string name="today_view_this_month">This Month</string>
+    <string name="today_view_last_month">Last Month</string>
+    <string name="today_view_this_year">This Year</string>
+    <string name="today_view_last_year">Last Year</string>
+
+    <string name="get">Get!</string>
+
+    <string name="tag_sum_pie">Sum Pie</string>
+    <string name="tag_sum_histogram">Sum Histogram</string>
+    <string name="tag_meal">Meal</string>
+    <string name="tag_closet">Clothing &amp; Footwear</string>
+    <string name="tag_home">Home</string>
+    <string name="tag_traffic">Traffic</string>
+    <string name="tag_vehicle_maintenance">Vehicle Maintenance</string>
+    <string name="tag_book">Book</string>
+    <string name="tag_hobby">Hobby</string>
+    <string name="tag_internet">Internet</string>
+    <string name="tag_friend">Friend</string>
+    <string name="tag_education">Education</string>
+    <string name="tag_entertainment">Entertainment</string>
+    <string name="tag_medical">Medical</string>
+    <string name="tag_insurance">Insurance</string>
+    <string name="tag_donation">Donation</string>
+    <string name="tag_sport">Sport</string>
+    <string name="tag_snack">Snack</string>
+    <string name="tag_music">Music</string>
+    <string name="tag_fund">Fund</string>
+    <string name="tag_drink">Drink</string>
+    <string name="tag_fruit">Fruit</string>
+    <string name="tag_film">Film</string>
+    <string name="tag_baby">Baby</string>
+    <string name="tag_partner">Partner</string>
+    <string name="tag_housing_loan">Housing Loan</string>
+    <string name="tag_pet">Pet</string>
+    <string name="tag_telephone_bill">Telephone Bill</string>
+    <string name="tag_travel">Travel</string>
+
+    <string name="password_tip">Input password to account book</string>
+
+    <string name="toast_no_tag">Just...give me a tag~</string>
+    <string name="toast_no_money">How much U spend?</string>
+    <string name="toast_password_wrong">Ooops...That\'s wrong!</string>
+    <string name="toast_password_correct">That\'s it!</string>
+    <string name="toast_save_successfully">Save successfully!</string>
+    <string name="toast_save_failed">Ooops...Save fail!</string>
+    <string name="toast_press_again_to_exit">Press again to say goodbye</string>
+
+    <string name="sort_tags">Sort Tags</string>
+
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    <string name="search">Search</string>
+
+    <string name="tag_empty">No coCoinRecords!</string>
+
+    <string name="undo">Undo</string>
+
+    <string name="deleting">Delete this coCoinRecord</string>
+    <string name="title_activity_edit_record">EditRecordActivity</string>
+
+    <string name="from_invalid">The starting time is invalid!</string>
+    <string name="to_invalid">The ending time is invalid!</string>
+
+    <string name="account_book_name_hint">Account book title</string>
+    <string name="user_name_hint">User name</string>
+    <string name="user_email_hint">User email</string>
+
+    <string name="test_user_name">Nightonke</string>
+    <string name="test_user_email">Nightonke@gmail.com</string>
+
+    <string name="expense_text">Expense</string>
+    <string name="records_text">Records</string>
+
+    <string name="month_limit_enable">Max expense limit monthly</string>
+    <string name="month_limit">Max expense monthly</string>
+    <string name="month_color_remind">Color remind</string>
+    <string name="month_warning">Color remind when expense over</string>
+    <string name="month_color_remind_type">Remind color</string>
+    <string name="month_forbidden">Forbidden coCoinRecord money when out of limit</string>
+
+    <string name="auto_back_up">Auto backup coCoinRecords</string>
+
+    <string name="account_book_name">Name of account book</string>
+
+    <string name="change_password">Change password</string>
+
+    <string name="sort_tag">Sort tags</string>
+
+    <string name="whether_show_picture">Show pictures in tags view account book</string>
+
+    <string name="whether_show_circle">Doughnut-shape pie chart</string>
+
+    <string name="default_user_name">You haven\'t logged on! After logging on, </string>
+    <string name="default_user_email">you can save your coCoinRecords to cloud. Click me to do so!</string>
+
+    <string name="set_account_book_dialog_title">Name your account book!</string>
+
+    <string name="submit">Submit!</string>
+    <string name="cancel">Cancel</string>
+    <string name="custom">Custom</string>
+    <string name="back">Back</string>
+
+    <string name="different_password">Password different!</string>
+    <string name="set_password_successfully">You did it!</string>
+
+    <string name="password_tip_0">Verify your old password</string>
+    <string name="password_tip_1">Input your new password</string>
+    <string name="password_tip_2">Input again to verify</string>
+
+    <string name="set_month_expense_dialog_title">Be thrifty!</string>
+    <string name="set_warning_expense_dialog_title">Set your target</string>
+    <string name="set_remind_color_dialog_title">Colors!</string>
+    <string name="set_remind_color_dialog_sub_title">Shades of Colors!</string>
+
+    <string name="this_month">This month:</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="login_or_register">Do you have a CoCoin account?</string>
+    <string name="login">Sure</string>
+    <string name="register">Not yet</string>
+
+    <string name="register_user_name">Show me a cool user name!</string>
+    <string name="register_user_email">You can regain your password by email.</string>
+    <string name="register_password">I can keep secret!</string>
+    <string name="go_register">Register!</string>
+
+    <string name="welcome_back">Welcome back!</string>
+
+    <string name="hi">Hi!&#160;</string>
+    <string name="log_out">Log out</string>
+    <string name="whether_logout">Are you sure to log out?</string>
+
+    <string name="go_login">Login!</string>
+    <string name="login_user_name">Tell me your register name or email.</string>
+    <string name="login_password">Tell me your password (be quiet!).</string>
+
+    <string name="change_account_book_name_successfully">Change name successfully</string>
+    <string name="change_account_book_name_fail">Change name fail</string>
+    <string name="change_and_update_account_book_name_successfully">
+        Change name and update to server successfully
+    </string>
+    <string name="change_and_update_account_book_name_fail">
+        Change name but update to server fail
+    </string>
+
+    <string name="register_successfully">Welcome to CoCoin!\n</string>
+    <string name="register_fail">Register fail!\n</string>
+    <string name="login_successfully">Welcome back!\n</string>
+    <string name="login_fail">Login fail!\n</string>
+    <string name="user_name_exist">User name already exists</string>
+    <string name="user_email_exist">Email already exists</string>
+    <string name="user_mobile_exist">
+        This mobile has been registered!\n
+        Please use the original account.
+    </string>
+    <string name="network_disconnection">Network disconnection</string>
+
+    <string name="user_name_or_password_incorrect">User doesn\'t exist or password incorrect!</string>
+    <string name="name_or_email_inexist">The user name or email doesn\'t exist!</string>
+    <string name="password_wrong">Password is incorrect!</string>
+
+    <string name="log_out_successfully">Log out successfully!</string>
+
+    <string name="sync_dialog_title">Sync?</string>
+    <string name="sync_dialog_content">
+        You have already synchronized your settings to CoCoin server.
+        Would you want to synchronize your old settings to local?
+    </string>
+    <string name="sync_dialog_sync_to_local">Sync old settings to local</string>
+    <string name="sync_dialog_sync_to_server">Sync new settings to server</string>
+    <string name="sync_to_local_successfully_dialog_title">Sync successfully</string>
+    <string name="sync_to_local_successfully_dialog_content">
+        Your old settings has been synchronized to local.
+    </string>
+    <string name="your_current_account_book_password_is">Your current account book password is changed to </string>
+    <string name="sync_to_server_successfully">Sync settings to server successfully!</string>
+    <string name="sync_to_server_failed">Sync settings to server failed!\n</string>
+
+    <string name="change_logo_title">Change logo!</string>
+    <string name="change_logo_content">Select a picture to do so.</string>
+    <string name="from_camera">From camera</string>
+    <string name="from_gallery">From gallery</string>
+
+    <string name="login_first_title">Login!</string>
+    <string name="login_first_content">Please login or register first!</string>
+    <string name="ok">OK!</string>
+
+    <string name="first_time_set_password">
+        Hey!\nWelcome to use CoCoin!\nTo protect your account book,\n
+        you need a password to do so.
+    </string>
+    <string name="first_time_set_password_again">
+        You gonna do it!\n
+        Just input your password again!
+    </string>
+
+    <string name="change_password_title">Change Password</string>
+
+    <string name="remark_hint">Add remarks for your coCoinRecord</string>
+
+    <string name="save_successfully_online">Save and sync to cloud successfully!</string>
+    <string name="save_successfully_locale">Save successfully!</string>
+    <string name="save_failed_online">Save successfully!\nSync to cloud failed!</string>
+    <string name="save_failed_locale">Save failed!</string>
+
+    <string name="delete_successfully_online">Delete and sync to cloud successfully!</string>
+    <string name="delete_successfully_locale">Delete successfully!</string>
+    <string name="delete_failed_online">Delete successfully!\nSync to cloud failed!</string>
+    <string name="delete_failed_locale">Delete failed!</string>
+
+    <string name="update_successfully_online">Update and sync to cloud successfully!</string>
+    <string name="update_successfully_locale">Update successfully!</string>
+    <string name="update_failed_online">Update successfully!\nSync to cloud failed!</string>
+    <string name="update_failed_locale">Update failed!</string>
+
+    <string name="guide">Guide</string>
+
+    <string name="hey">Hello!</string>
+    <string name="thank">Thanks for using CoCoin.</string>
+    <string name="me">I\'m an android developer.</string>
+    <string name="github">All codes here: github.com/Nightonke/CoCoin</string>
+    <string name="blog">Blog: blog.csdn.net/u012925008</string>
+    <string name="email">Email: nightonke@outlook.com</string>
+    <string name="thank_again">If you get any questions about CoCoin or me, just mail me!</string>
+
+</resources>
